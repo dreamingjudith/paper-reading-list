@@ -5,3 +5,5 @@
 ## How to organize
 
 논문은 이슈 형태로 정리합니다. 그리고 Projects를 통해 칸반 보드 형태로 To do / In Progress / Done 으로 나누어 이슈 리스트를 정리합니다.
+
+[Go to project](https://github.com/dreamingjudith/paper-reading-list/projects/1)
